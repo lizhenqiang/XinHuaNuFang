@@ -14,5 +14,6 @@ public class MainActivity extends Activity {
 
         textView = (TextView) findViewById(R.id.tv);
         textView.setText("sdadsa");
+        textView.setText("222222");
     }
 }
