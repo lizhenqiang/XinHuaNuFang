@@ -13,6 +13,6 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         textView = (TextView) findViewById(R.id.tv);
-
+        textView.setText("s");
     }
 }
